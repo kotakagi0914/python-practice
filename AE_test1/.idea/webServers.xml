@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="fef2162b-2c02-4489-8028-18f666f87e8a" name="mensa" url="http://133.2.208.204">
+        <fileTransfer host="133.2.208.204" port="22" rootFolder="/home/takagi.kotaro/" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="f4142cc5-4498-481c-9a10-39f45108fa01" name="norma" url="http://133.2.208.205">
+        <fileTransfer host="133.2.208.205" port="22" rootFolder="/home/takagi.kotaro/" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="05512bbe-b96c-4fca-ab84-fbbf8718659c" name="regulus" url="http://133.2.208.209">
+        <fileTransfer host="133.2.208.209" port="22" rootFolder="/home/takagi.kotaro" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
